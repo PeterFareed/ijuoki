@@ -1,1 +1,2 @@
-# ijuoki
+# Probot ✨
+Epic Discord Bot
